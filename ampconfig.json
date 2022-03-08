@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.4",
+  "appInfo": {
+    "name": "Test-local",
+    "description": "Sample application for e-commerce",
+    "version": "xfry957o",
+    "id": "ckzl7t6n4115801s6dj4g698s",
+    "url": "https://staging.amplication.com/ckzl7t6n4115801s6dj4g698s",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckzl7t6n4115801s6dj4g698s",
+      "authProvider": "Jwt"
+    }
+  }
+}
